@@ -1,6 +1,6 @@
 # 🧠📘 Mastering OOP in Python: A Practical Assignment Series
 
-Welcome to the Complete OOP Practice Series in Python — a comprehensive repository of hands-on Python assignments designed to help you Build, Compose, and Decorate using Object-Oriented Programming.
+Welcome to the Complete OOP Practice Series in Python a comprehensive repository of hands-on Python assignments designed to help you Build, Compose, and Decorate using Object-Oriented Programming.
 
 Whether you're just starting your journey into OOP or revising key concepts, this curated set of tasks and examples gives you a complete, structured learning experience. Each assignment targets a specific OOP concept, combining code with practical understanding.
 
@@ -92,16 +92,9 @@ Practice static methods for real-world utility.
 
 Use class variables to track shared information.
 
-
-▶ How to Run
-
-Each assignment is saved in its own Python file:
-
-python filename.py
-
 🎯 Objective
 
-Build a strong foundation in Python's object-oriented features.Apply theoretical knowledge through practical coding tasks.Understand advanced OOP concepts like decorators, MRO, and abstract base classes.Improve code organization and reusability
+Build a strong foundation in Python's object-oriented features. Apply theoretical knowledge through practical coding tasks. Understand advanced OOP concepts like decorators, MRO, and abstract base classes. Improve code organization and reusability
 
 👩‍💻 Author
 
@@ -118,9 +111,9 @@ If you like this project, consider:
 
 ⭐ Starring the repository.
 
-📤 Sharing it with Python learners
+📤 Sharing it with Python learners.
 
-🍴 Forking it to customize your own practice set
+🍴 Forking it to customize your own practice set.
 
 Happy coding! 🚀
 
