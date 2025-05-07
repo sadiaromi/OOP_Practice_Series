@@ -101,29 +101,22 @@ python filename.py
 
 🎯 Objective
 
-Build a strong foundation in Python's object-oriented features
+Build a strong foundation in Python's object-oriented features.Apply theoretical knowledge through practical coding tasks.Understand advanced OOP concepts like decorators, MRO, and abstract base classes.Improve code organization and reusability
 
-Apply theoretical knowledge through practical coding tasks
-
-Understand advanced OOP concepts like decorators, MRO, and abstract base classes
-
-Improve code organization and reusability
-
-👨‍💻 Author
+👩‍💻 Author
 
 Roman Sadia | Python Explorer | Tech Enthusiast
 
-🔗 Connect
+## 🔗 Connect
+- GitHub: [sadiaromi](https://github.com/sadiaromi)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/roman-sadia-6b280a2b6)
 
-GitHub: sadiaromi
-
-LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BcqnjEyywSy%2Bf%2Fxkc2IgFPQ%3D%3D
 
 🌟 Show Your Support
 
 If you like this project, consider:
 
-⭐ Starring the repository
+⭐ Starring the repository.
 
 📤 Sharing it with Python learners
 
